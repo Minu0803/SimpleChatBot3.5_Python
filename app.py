@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-client = OpenAI(api_key='Yout-api-Key')
+client = OpenAI(api_key='Yout-api-Key') ##본인의 api Key를 입력하시면 됩니다
 
 # OpenAI API 키 설정 (발급받은 API 키로 교체)
 
