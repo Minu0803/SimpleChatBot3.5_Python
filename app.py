@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import scrolledtext
 from openai import OpenAI
 
-# OpenAI API 클라이언트 설정
+# OpenAI API 클라이언트 설정.
 client = OpenAI(api_key='')  # 본인의 API 키를 입력하세요.
 
 # 시스템 메시지 초기화
